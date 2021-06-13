@@ -18,7 +18,7 @@
 
 ## Kontribusi
 
-- [noXlaw](https://github.com/noxlaw)
+- [NoXLaw](https://github.com/noxlaw)
 - [Rizky Tegar](https://github.com/rizkytegar)
 
 
